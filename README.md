@@ -94,13 +94,13 @@ const SAURAV_OS = {
   uptime: "∞ (sleep is optional)",
 
   activeProcesses: [
-    { pid: "001", name: "NexBooK",        users: "17,000+", status: "🟢 LIVE"     },
-    { pid: "002", name: "AeroX Browser",   users: "1,000+",  status: "🟢 SHIPPED"  },
-    { pid: "003", name: "NEX Social",      users: "700+",    status: "🟢 LIVE"     },
-    { pid: "004", name: "True Trips AI",   users: "600+",    status: "🟢 LIVE"     },
-    { pid: "005", name: "TraX Music",      users: "600+",    status: "🟢 LIVE"     },
-    { pid: "006", name: "EDIX Engine",     type:  "Video AI", status: "🔨 BUILDING" },
-    { pid: "007", name: "CINEXA",          type: "Cinema AI", status: "🟢 LIVE"     },
+    { pid: "001", name: "NexBooK",         users: "17,000+",   status: "🟢 LIVE"     },
+    { pid: "002", name: "AeroX Browser",   users: "1,000+",    status: "🟢 SHIPPED"  },
+    { pid: "003", name: "NEX Social",      users: "700+",      status: "🟢 LIVE"     },
+    { pid: "004", name: "True Trips AI",   users: "600+",      status: "🟢 LIVE"     },
+    { pid: "005", name: "TraX Music",      users: "600+",      status: "🟢 LIVE"     },
+    { pid: "006", name: "EDIX Engine",     type:  "Video AI",  status: "🔨 BUILDING" },
+    { pid: "007", name: "CINEXA",          type:  "Cinema AI", status: "🟢 LIVE"     },
     { pid: "008", name: "Quantum Paper",   venue: "Published", status: "✅ COMPLETE" },
   ],
 
@@ -263,32 +263,340 @@ IMDb Evolution with Sphere AI (Groq/Llama). Mood-based cinematic intelligence. R
 <tr>
 <td align="center" width="33%">
 
-### ⚖️ Jurisight & Lexmont
-<img src="https://img.shields.io/badge/180+_Countries-0891b2?style=flat-square" />
-<img src="https://img.shields.io/badge/96%25_Precision-10b981?style=flat-square" />
+### ⚖️ Jurisight
+**Global Legal Intelligence**
 
-RAG & Tax pipelines. 80-91% latency reduction.
+<img src="https://img.shields.io/badge/180+_Countries-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/96%25_Precision-10b981?style=for-the-badge" />
 
-</td>
-<td align="center" width="33%">
+Every law from every jurisdiction — IPC, CrPC, Constitution, International Law, Civil & Criminal codes worldwide. RAG-powered legal brain with instant case retrieval.
 
-### 🏢 FermWise & Insauré
-<img src="https://img.shields.io/badge/450+_Adopters-0e7490?style=flat-square" />
-<img src="https://img.shields.io/badge/70%25_Faster-f59e0b?style=flat-square" />
-
-Multi-jurisdiction enterprise intelligence.
+`RAG` `Legal AI` `NLP` `Multi-Jurisdiction`
 
 </td>
 <td align="center" width="33%">
 
-### 🍳 BlindChef & YTV
-<img src="https://img.shields.io/badge/95%25_Satisfaction-06b6d4?style=flat-square" />
+### 💰 Lexmont
+**AI Tax & Finance Engine**
 
-LLM agents for recipes & YouTube synthesis.
+<img src="https://img.shields.io/badge/Latency-80--91%25↓-f59e0b?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CA_Grade-✓-10b981?style=for-the-badge" />
+
+Everything a Chartered Accountant does — automated. Tax filing, planning, deductions, GST, ITR, compliance. RAG & Tax pipelines with 80-91% latency reduction.
+
+`Tax AI` `RAG` `Finance` `Compliance`
+
+</td>
+<td align="center" width="33%">
+
+### 🏛️ FermWise
+**Enterprise Legal Intelligence**
+
+<img src="https://img.shields.io/badge/450+_Adopters-0e7490?style=for-the-badge" />
+<img src="https://img.shields.io/badge/70%25_Faster-f59e0b?style=for-the-badge" />
+
+Advanced multi-jurisdiction corporate intelligence. Every law case — corporate, criminal, civil, IP, M&A — indexed, analyzed, and instantly retrievable.
+
+`Corporate AI` `Case Law` `LLM` `Enterprise`
+
+</td>
+</tr>
+<tr><td colspan="3"><br></td></tr>
+<tr>
+<td align="center" width="33%">
+
+### 🛡️ Insauré
+**AI Insurance Advisor**
+
+<img src="https://img.shields.io/badge/Zero_Charges-10b981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/No_Ads-06b6d4?style=for-the-badge" />
+
+Scans the entire internet to find the cheapest & best insurance — health, life, vehicle, travel. Zero commissions, zero ads, pure user-first recommendations.
+
+`Insurance AI` `Web Scraping` `LLM` `Comparison`
+
+</td>
+<td align="center" width="33%">
+
+### 🍳 BlindChef
+**World Recipe Intelligence**
+
+<img src="https://img.shields.io/badge/300K+_Recipes-0891b2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/95%25_Satisfaction-f59e0b?style=for-the-badge" />
+
+300,000+ recipes from every cuisine on Earth. AI-powered ingredient substitution, dietary adaptation, and step-by-step cooking guidance via LLM agents.
+
+`Recipe AI` `LLM Agent` `NLP` `Food Tech`
+
+</td>
+<td align="center" width="33%">
+
+### 📺 YTV
+**YouTube Synthesis Engine**
+
+<img src="https://img.shields.io/badge/Smart_Notes-06b6d4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Flash_Cards-0e7490?style=for-the-badge" />
+
+Summarizes any YouTube video into structured notes, flash cards, and key insights. Proper deep analysis — not just transcripts, but real understanding.
+
+`Video AI` `Summarization` `LLM` `EdTech`
 
 </td>
 </tr>
 </table>
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- 🎬 CINEMATIC SOUND FORGE                                              -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=E879F9&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8E%AC+CINEMATIC+SOUND+FORGE+%E2%80%94+ORIGINAL+COMPOSITIONS" />
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td>
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║   🎬  C I N E M A T I C   S O U N D   D A S H B O A R D              ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━            ║
+║                                                                      ║
+║   🎵 SONGS & LYRICS ████████████████████████████████████  500+       ║
+║   🎬 BGM & SCORES   ████████████████████████████         343+        ║
+║   🎼 MELODIES        ████████████████████████████████████  500+      ║
+║   🎧 SOUND DESIGN    ████████████████████████████████████  ∞         ║
+║                                                                      ║
+║   ┌──────────────────────────────────────────────────────┐           ║
+║   │  TOTAL CINEMATIC CREATIONS ─────────── 843+          │           ║
+║   │  ORIGINAL LYRICS WRITTEN ──────────── 500+           │           ║
+║   │  MELODIES COMPOSED ────────────────── 500+           │           ║
+║   │  BACKGROUND SCORES ───────────────── 343+            │           ║
+║   │  STATUS ──────────────────────────── COMPOSING 🔴    │           ║
+║   └──────────────────────────────────────────────────────┘           ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎵 500+
+**Songs & Lyrics**
+
+Original lyrics written with melody, rhythm & soul. Full songs composed from scratch — vocals, hooks, verses, bridges.
+
+<img src="https://img.shields.io/badge/Lyrics-Written-E879F9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Melody-Composed-A855F7?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+### 🎬 343+
+**BGM & Cinematic Scores**
+
+Original background music & cinematic scores. Emotional themes, action sequences, suspense buildups, orchestral compositions.
+
+<img src="https://img.shields.io/badge/BGM-Produced-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Scores-Cinematic-EF4444?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+### 🎼 ∞
+**Melodies Composed**
+
+Every song carries a unique melody. Instrumental arrangements, chord progressions, bass lines — all original compositions.
+
+<img src="https://img.shields.io/badge/Melodies-Original-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Music-Theory-0891B2?style=for-the-badge" />
+
+</td>
+<td align="center" width="25%">
+
+### 🎧 🔥
+**Sound Design**
+
+Complete sound design pipeline — mixing, mastering, layering, EQ, reverb, compression. Professional-grade cinematic audio.
+
+<img src="https://img.shields.io/badge/Mixing-Pro-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Mastering-Studio-14B8A6?style=for-the-badge" />
+
+</td>
+</tr>
+</table>
+
+```
+  THE CREATIVE PROCESS:
+
+  ╭───  INSPIRATION ───╮    ╭──── COMPOSE ─────╮     ╭──── PRODUCE ────╮    ╭──── RELEASE ────╮
+  │   🌙 Late Night    │───▶│   🎹 Melody      │───▶│  🎚️ Mix & Master│───▶│   🎬 Ship It    │
+  │   ☕ Coffee + Soul │    │   ✍️ Lyrics      │    │  🎧 Sound Design│    │   🔥 843+ Done  │
+  ╰────────────────────╯    ╰──────────────────╯     ╰─────────────────╯    ╰─────────────────╯
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 DEPLOYMENT CONSTELLATION                                          -->
+<!-- ══════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8C%90+DEPLOYMENT+CONSTELLATION+%E2%80%94+SECTORS+CONQUERED" />
+</div>
+
+<br>
+
+<div align="center">
+
+> **Successfully deployed 46+ AI-powered websites and 21+ mobile applications serving 22,000+ active users across 13+ industry verticals.**
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/⚖️_Legal_Tech-0891b2?style=for-the-badge" />
+
+Jurisight · FermWise
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/💰_Finance-0e7490?style=for-the-badge" />
+
+Lexmont · Tax AI
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🏥_Healthcare-10b981?style=for-the-badge" />
+
+AI Health Systems
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🛡️_Insurance-06b6d4?style=for-the-badge" />
+
+Insauré
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/✈️_Travel-14b8a6?style=for-the-badge" />
+
+True Trips AI
+
+</td>
+</tr>
+<tr><td colspan="5"><br></td></tr>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/💬_Social-E879F9?style=for-the-badge" />
+
+NEX Social
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🌐_Browser-A855F7?style=for-the-badge" />
+
+AeroX Browser
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🤖_Agentic_AI-F59E0B?style=for-the-badge" />
+
+Multi-Agent Systems
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🎬_Entertainment-EF4444?style=for-the-badge" />
+
+CINEXA · EDIX
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🎵_Music-EC4899?style=for-the-badge" />
+
+TraX Music
+
+</td>
+</tr>
+<tr><td colspan="5"><br></td></tr>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/📺_Media_AI-8B5CF6?style=for-the-badge" />
+
+YTV · Video AI
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/📚_Education-3B82F6?style=for-the-badge" />
+
+NexBooK · AcademyX
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🍳_Food_Tech-F97316?style=for-the-badge" />
+
+BlindChef
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/🔬_Quantum-22D3EE?style=for-the-badge" />
+
+Research · Physics
+
+</td>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/💼_Enterprise-6366F1?style=for-the-badge" />
+
+B2B · SaaS
+
+</td>
+</tr>
+</table>
+
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │                                                                     │
+  │   🚀  46+ WEBSITES  ·  21+ APPS  ·  22,000+ USERS  ·  13+ SECTORS   │
+  │                                                                     │
+  │   "I don't operate in a single lane — I build across dimensions."   │
+  │                                                                     │
+  └─────────────────────────────────────────────────────────────────────┘
+```
+
 </div>
 
 <div align="center">
@@ -318,8 +626,14 @@ LLM agents for recipes & YouTube synthesis.
 <tr>
 <td align="center"><h3>250K+</h3><b>Free Courses Indexed</b></td>
 <td align="center"><h3>180+</h3><b>Countries Covered</b></td>
-<td align="center"><h3>500+</h3><b>Audio Assets</b></td>
 <td align="center"><h3>1</h3><b>Quantum Paper</b></td>
+<td align="center"><h3>843+</h3><b>🎬 Cinematic Creations</b></td>
+</tr>
+<tr>
+<td align="center"><h3>500+</h3><b>🎵 Songs & Lyrics</b></td>
+<td align="center"><h3>343+</h3><b>🎬 BGM & Scores</b></td>
+<td align="center"><h3>∞</h3><b>🎼 Melodies Composed</b></td>
+<td align="center"><h3>🔥</h3><b>Sound Design</b></td>
 </tr>
 </table>
 
@@ -544,7 +858,8 @@ Quantum physics × AI × Product design. Innovation at **intersections**.
   ⌚ 03:47 AM                                          🔋 98%
 
   > deploying nexbook v4.2...                           ✅
-  > training custom LLM on 500+ audio assets...         ⏳
+  > composing cinematic score #344...                   🎬
+  > mastering song lyrics + melody #501...              🎵
   > optimizing TraX streaming buffer to 0ms lag...      ✅
   > writing quantum research paper...                   ✅
   > refactoring EDIX deep sense pipeline...             ⏳
