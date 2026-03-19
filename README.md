@@ -751,7 +751,7 @@ B2B · SaaS
 
 🔹 Pioneered **"Duality Tuning"** for Quantum Sensors
 
-> *When everyone said "you can't observe both" — I built the detectors that proved you can.*
+> *When everyone said "you can't observe both" — I mathematically modeled the detectors that proved you can.*
 
 </td>
 <td width="40%" align="center">
