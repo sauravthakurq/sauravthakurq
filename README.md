@@ -59,8 +59,6 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sauravthakurq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=0891b2&text_color=c9d1d9&ring_color=00f5d4&count_private=true&include_all_commits=true" width="95%" />
-
 <img src="https://streak-stats.demolab.com?user=sauravthakurq&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=F59E0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=484F58&currStreakNum=00F5D4&sideNums=C9D1D9" width="95%" />
 
 </div>
@@ -79,31 +77,25 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 
 <div align="center">
 
-```js
-// saurav_os.config.js — v4.0
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=161B22&height=45&text=🔴%20%20🟡%20%20🟢%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20saurav_os.config.js&fontColor=C9D1D9&fontSize=16&fontAlignY=60" width="100%" />
+</div>
 
+```js
 const SAURAV_OS = {
   kernel: "Multi-threaded Chaos Engine",
   version: "4.0",
   uptime: "∞ (sleep is optional)",
 
   activeProcesses: [
-    { pid: "001", name: "NexBooK",
-      users: "21K+", status: "🟢 LIVE" },
-    { pid: "002", name: "AeroX Browser",
-      users: "1K+",  status: "🟢 SHIPPED" },
-    { pid: "003", name: "NEX Social",
-      users: "700+", status: "🟢 LIVE" },
-    { pid: "004", name: "True Trips AI",
-      users: "600+", status: "🟢 LIVE" },
-    { pid: "005", name: "TraX Music",
-      users: "600+", status: "🟢 LIVE" },
-    { pid: "006", name: "EDIX Engine",
-      type: "Video AI", status: "🔨 BUILD" },
-    { pid: "007", name: "CINEXA",
-      type: "Cinema AI", status: "🟢 LIVE" },
-    { pid: "008", name: "Quantum Paper",
-      venue: "Published", status: "✅ DONE" },
+    { pid: "001", name: "NexBooK",       users: "21K+", status: "🟢 LIVE" },
+    { pid: "002", name: "AeroX Browser", users: "1K+",  status: "🟢 SHIPPED" },
+    { pid: "003", name: "NEX Social",    users: "700+", status: "🟢 LIVE" },
+    { pid: "004", name: "True Trips AI", users: "600+", status: "🟢 LIVE" },
+    { pid: "005", name: "TraX Music",    users: "600+", status: "🟢 LIVE" },
+    { pid: "006", name: "EDIX Engine",   type: "Video AI", status: "🔨 BUILD" },
+    { pid: "007", name: "CINEXA",        type: "Cinema AI", status: "🟢 LIVE" },
+    { pid: "008", name: "Quantum Paper", venue: "Published", status: "✅ DONE" },
   ],
 
   coreDrivers: {
@@ -143,7 +135,11 @@ module.exports = SAURAV_OS; // 🟢
 <!-- NexBooK -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/📘_NexBooK-Campus_Intelligence-0891b2?style=for-the-badge" />
+<h1 align="center"><a href="https://nexbook.tech" style="text-decoration: none;">📘 NEXBOOK</a></h1>
+<h3 align="center">The Campus Super-App Ecosystem</h3>
+<p align="center">
+  <a href="https://nexbook.tech"><img src="https://img.shields.io/badge/🔗_VISIT_NEXBOOK.TECH-00F5D4?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br>
 
@@ -177,7 +173,11 @@ AI-native desktop browser. Privacy-first agentic AI auto-fills forms, manages ta
 
 <!-- AeroX AI Fill -->
 
-<h3 align="center">🧠 AEROX AI FILL — DOM-Aware Intelligence Pipeline</h3>
+<h1 align="center"><a href="https://github.com/sauravthakurq/Aerox-AI-fill.git" style="text-decoration: none;">🧠 AEROX AI FILL</a></h1>
+<h3 align="center">DOM-Aware Intelligence Pipeline</h3>
+<p align="center">
+  <a href="https://github.com/sauravthakurq/Aerox-AI-fill.git"><img src="https://img.shields.io/badge/🚀_LAUNCH_AEROX_AI-0891b2?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <br>
 
@@ -192,7 +192,8 @@ AI-native desktop browser. Privacy-first agentic AI auto-fills forms, manages ta
 
 <!-- NEX Social -->
 
-<img src="https://img.shields.io/badge/💬_NEX-Social_Fabric-06b6d4?style=for-the-badge" />
+<h1 align="center">💬 NEX SOCIAL (NexAmigo)</h1>
+<h3 align="center">Campus Social Fabric</h3>
 
 <br>
 
@@ -239,7 +240,11 @@ Multimodal RAG Concierge. 7+ day itineraries in <4s. Glassmorphic Next.js 14/Map
 <div align="center">
 
 <!-- SYNAPSE AI -->
-### 🏫 SYNAPSE AI — Interactive AI Classroom Protocol
+<h1 align="center"><a href="https://ai.nexbook.tech" style="text-decoration: none;">🏫 SYNAPSE AI</a></h1>
+<h3 align="center">Interactive AI Classroom Protocol</h3>
+<p align="center">
+  <a href="https://ai.nexbook.tech"><img src="https://img.shields.io/badge/🚀_LAUNCH_SYNAPSE_AI-FF0055?style=for-the-badge&logoColor=white" /></a>
+</p>
 
 <img src="https://img.shields.io/badge/Scale-128,000+_LOC-10b981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Published-JCST'26-0891b2?style=for-the-badge" />
@@ -777,8 +782,6 @@ OBSERVE ──▶ QUESTION ──▶ BUILD
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=0891B2&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8A+CONTRIBUTION+MATRIX" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravthakurq&bg_color=0d1117&color=00f5d4&line=0891b2&point=f59e0b&area_color=0e7490&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG" width="95%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravthakurq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=10" width="95%" />
 
 </div>
 
