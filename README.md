@@ -1,6 +1,5 @@
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌌 SAURAV THAKUR — CINEMATIC GITHUB PROFILE                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- 🌌 SAURAV THAKUR — CINEMATIC GITHUB PROFILE           -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
@@ -9,44 +8,45 @@
 
 <!-- ANIMATED TYPING -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=000000&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%E2%9A%A1+Building+the+Future+%E2%80%94+One+System+at+a+Time;%F0%9F%9A%80+46%2B+Websites+%E2%80%A2+21%2B+Apps+%E2%80%A2+22%2C000%2B+Users;%F0%9F%94%AC+Challenged+Bohr's+100-Year-Old+Physics+Law" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%E2%9A%A1+Building+the+Future+%E2%80%94+One+System+at+a+Time;%F0%9F%9A%80+46%2B+Websites+%E2%80%A2+21%2B+Apps+%E2%80%A2+23%2C000%2B+Users;%F0%9F%94%AC+Challenged+Bohr's+100-Year-Old+Physics+Law" width="100%" />
 </a>
 
 <!-- NEON IDENTITY BADGES -->
+<br>
 <img src="https://img.shields.io/badge/%E2%9A%A1_AI_ENGINEER-0891b2?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/%F0%9F%9A%80_4x_FOUNDER-0e7490?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/%F0%9F%94%AC_QUANTUM_RESEARCHER-06b6d4?style=for-the-badge&logoColor=white" />
+<br>
 <img src="https://img.shields.io/badge/%F0%9F%A7%A0_ML_ENGINEER-10b981?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/%F0%9F%92%BB_FULL_STACK-14b8a6?style=for-the-badge&logoColor=white" />
 
 <!-- SOCIAL BADGES -->
-<br>
+<br><br>
 <a href="mailto:sauravthakur6310@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/sauravthakurq"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sauravthakurq"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<br>
 <img src="https://komarev.com/ghpvc/?username=sauravthakurq&style=for-the-badge&color=0891b2&label=VISITORS" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 WHO AM I                                                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🎬 WHO AM I                                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8E%AC+WHO+AM+I" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8E%AC+WHO+AM+I" width="100%" />
 </div>
 
-<table>
-<tr>
-<td width="55%">
+<div align="center">
 
 ### `> sudo whoami --deep`
 
 I don't just write code — **I architect realities.**
 
-While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **22,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
+While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **23,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
 
 I operate at the intersection of **bleeding-edge AI** and **relentless execution**. My systems don't just work — they **think, adapt, and scale autonomously.**
 
@@ -54,39 +54,33 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 
 <img src="https://img.shields.io/badge/Websites_Shipped-46+-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Apps_Built-21+-0e7490?style=flat-square" />
-<img src="https://img.shields.io/badge/Active_Users-22,000+-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Active_Users-23,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Startups-4-14b8a6?style=flat-square" />
 
-</td>
-<td width="45%" align="center">
+<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sauravthakurq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=0891b2&text_color=c9d1d9&ring_color=00f5d4&count_private=true&include_all_commits=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sauravthakurq&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&icon_color=0891b2&text_color=c9d1d9&ring_color=00f5d4&count_private=true&include_all_commits=true" width="95%" />
 
-<img src="https://streak-stats.demolab.com?user=sauravthakurq&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=F59E0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=484F58&currStreakNum=00F5D4&sideNums=C9D1D9" width="100%" />
+<img src="https://streak-stats.demolab.com?user=sauravthakurq&theme=radical&hide_border=true&background=0D1117&ring=00F5D4&fire=F59E0B&currStreakLabel=00F5D4&sideLabels=C9D1D9&dates=484F58&currStreakNum=00F5D4&sideNums=C9D1D9" width="95%" />
 
-</td>
-</tr>
-</table>
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 💎 MY OPERATING SYSTEM                                                -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 💎 MY OPERATING SYSTEM                                 -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%92%8E+MY+OPERATING+SYSTEM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%92%8E+MY+OPERATING+SYSTEM" width="100%" />
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td>
 
 ```js
-// saurav_os.config.js — v4.0 FOUNDER EDITION
+// saurav_os.config.js — v4.0
 
 const SAURAV_OS = {
   kernel: "Multi-threaded Chaos Engine",
@@ -94,74 +88,81 @@ const SAURAV_OS = {
   uptime: "∞ (sleep is optional)",
 
   activeProcesses: [
-    { pid: "001", name: "NexBooK",         users: "17,000+",   status: "🟢 LIVE"     },
-    { pid: "002", name: "AeroX Browser",   users: "1,000+",    status: "🟢 SHIPPED"  },
-    { pid: "003", name: "NEX Social",      users: "700+",      status: "🟢 LIVE"     },
-    { pid: "004", name: "True Trips AI",   users: "600+",      status: "🟢 LIVE"     },
-    { pid: "005", name: "TraX Music",      users: "600+",      status: "🟢 LIVE"     },
-    { pid: "006", name: "EDIX Engine",     type:  "Video AI",  status: "🔨 BUILDING" },
-    { pid: "007", name: "CINEXA",          type:  "Cinema AI", status: "🟢 LIVE"     },
-    { pid: "008", name: "Quantum Paper",   venue: "Published", status: "✅ COMPLETE" },
+    { pid: "001", name: "NexBooK",
+      users: "21K+", status: "🟢 LIVE" },
+    { pid: "002", name: "AeroX Browser",
+      users: "1K+",  status: "🟢 SHIPPED" },
+    { pid: "003", name: "NEX Social",
+      users: "700+", status: "🟢 LIVE" },
+    { pid: "004", name: "True Trips AI",
+      users: "600+", status: "🟢 LIVE" },
+    { pid: "005", name: "TraX Music",
+      users: "600+", status: "🟢 LIVE" },
+    { pid: "006", name: "EDIX Engine",
+      type: "Video AI", status: "🔨 BUILD" },
+    { pid: "007", name: "CINEXA",
+      type: "Cinema AI", status: "🟢 LIVE" },
+    { pid: "008", name: "Quantum Paper",
+      venue: "Published", status: "✅ DONE" },
   ],
 
   coreDrivers: {
-    creativity:      "OVERCLOCKED",
-    executionSpeed:  "LUDICROUS",
-    buildPhilosophy: "Ship fast. Break limits. Repeat."
+    creativity:     "OVERCLOCKED",
+    executionSpeed: "LUDICROUS",
+    philosophy:     "Ship. Break. Repeat."
   },
 
   systemMetrics: {
-    websitesDeployed:  "46+",
-    appsShipped:       "21+",
-    totalActiveUsers:  "22,000+",
-    startupsBuilt:     4,
+    websitesDeployed: "46+",
+    appsShipped:      "21+",
+    totalUsers:       "23,000+",
+    startupsBuilt:    4,
     quantumLawsBroken: 1
   }
 };
 
-module.exports = SAURAV_OS;  // ALL SYSTEMS OPERATIONAL 🟢
+module.exports = SAURAV_OS; // 🟢
 ```
 
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🚀 THE STARTUP UNIVERSE                                               -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🚀 THE STARTUP UNIVERSE                                -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+THE+STARTUP+UNIVERSE" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%9A%80+THE+STARTUP+UNIVERSE" width="100%" />
 </div>
 
 <br>
 
+<!-- NexBooK -->
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
 
 <img src="https://img.shields.io/badge/📘_NexBooK-Campus_Intelligence-0891b2?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/Users-17,000+-10b981?style=flat-square" />
+<br>
+
+<img src="https://img.shields.io/badge/Users-21,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Retention-85%25-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/AI_Accuracy-87%25-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/Courses-250K+-06b6d4?style=flat-square" />
 
-Campus marketplace serving 17K+ students. **Thinkly AI** predicts exam questions with ~87% accuracy. **AcademyX** indexes 250K+ free courses from Harvard, MIT, Google, Stanford.
+<p align="center">Evolving beyond commerce, a massive hybrid student utility network merging an offline-first PWA marketplace with a cutting-edge study engine. Orchestrates <b>AcademyX</b> discovery and <b>Thinkly AI</b> semantic analysis across 21K+ scholars.</p>
 
-`NLP` `RAG` `Document AI` `Exam Prediction`
+<p align="center"><code>NLP</code> <code>RAG</code> <code>Document AI</code> <code>React UMD</code></p>
 
-</td>
-<td align="center" width="50%">
+---
+
+<!-- AeroX Browser -->
 
 <img src="https://img.shields.io/badge/🌐_AeroX_Browser-AI_Native_Browser-0e7490?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Users-1,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Rating-4.3★-f59e0b?style=flat-square" />
@@ -172,27 +173,45 @@ AI-native desktop browser. Privacy-first agentic AI auto-fills forms, manages ta
 
 `Electron` `Agentic AI` `Voice AI` `Privacy`
 
-</td>
-</tr>
-<tr><td colspan="2"><br></td></tr>
-<tr>
-<td align="center" width="50%">
+---
+
+<!-- AeroX AI Fill -->
+
+<h3 align="center">🧠 AEROX AI FILL — DOM-Aware Intelligence Pipeline</h3>
+
+<br>
+
+<img src="https://img.shields.io/badge/Context_Engine-IndexedDB-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Execution-Local_Execution-0891b2?style=flat-square" />
+
+<p align="center">Seamlessly mapping PDF intelligence directly into live web DOM structures. Analyzes active HTML forms and automatically propagates structured LLM output bypassing native configurations via Chrome background workers.</p>
+
+<p align="center"><code>Manifest V3</code> <code>pdf.js</code> <code>Custom LLM Routing</code></p>
+
+---
+
+<!-- NEX Social -->
 
 <img src="https://img.shields.io/badge/💬_NEX-Social_Fabric-06b6d4?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Users-700+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Engagement-92%25-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/Latency-<48ms-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Platforms-5+_OS-06b6d4?style=flat-square" />
 
-Cross-platform social app with 700+ users. Custom DOM morphing for native responsiveness. Real-time Firebase with <48ms latency. 10+ features shipped.
+<p align="center">A high-trust, approval-based private campus identity ecosystem. Seamlessly bridges consumer social networking (stories, real-time messaging, events) with exclusive collegiate organizational infrastructure through advanced Vanilla DOM morphing.</p>
 
-`Firebase` `WebSocket` `PWA` `Real-time`
+<p align="center"><code>Vanilla JS</code> <code>Custom State</code> <code>Firebase v9</code> <code>PWA</code></p>
 
-</td>
-<td align="center" width="50%">
+---
+
+<!-- True Trips AI -->
 
 <img src="https://img.shields.io/badge/✈️_True_Trips_AI-AI_Travel_Agent-10b981?style=for-the-badge" />
+
+<br>
 
 <img src="https://img.shields.io/badge/Users-600+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Speed-<4s_Itinerary-f59e0b?style=flat-square" />
@@ -203,68 +222,66 @@ Multimodal RAG Concierge. 7+ day itineraries in <4s. Glassmorphic Next.js 14/Map
 
 `RAG` `Gemini` `Mapbox` `Stripe`
 
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔥 AI PRODUCTION ENGINES                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🔥 AI PRODUCTION ENGINES                               -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=0891B2&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%94%A5+AI+PRODUCTION+ENGINES" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=0891B2&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%94%A5+AI+PRODUCTION+ENGINES" width="100%" />
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
 
-### 🎬 EDIX
-**AI Video Engine**
+<!-- SYNAPSE AI -->
+### 🏫 SYNAPSE AI — Interactive AI Classroom Protocol
+
+<img src="https://img.shields.io/badge/Scale-128,000+_LOC-10b981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Published-JCST'26-0891b2?style=for-the-badge" />
+
+An unprecedented open-source multi-agent orchestration platform developed by SYNAPSE AI Research. Transforms any text prompt or PDF into a deeply immersive classroom where AI teachers and students debate, simulate, and lecture with live HTML whiteboard drawings and real-time TTS.
+
+`React 19` `LangGraph` `Vercel AI SDK` `IndexedDB` `Server-Sent Events`
+
+---
+
+<!-- EDIX -->
+### 🎬 EDIX — AI Video Engine
 
 <img src="https://img.shields.io/badge/Accuracy-94%25-10b981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Speed-90%25↑-0891b2?style=for-the-badge" />
 
 Timeline-less storytelling via Deep Sense (OpenCV/Whisper/FFmpeg). Distributed GPU Swarming. 30+ concurrent projects.
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🎵 TraX
-**Universal Music Engine**
+<!-- TraX -->
+### 🎵 TraX — Universal Music Engine
 
 <img src="https://img.shields.io/badge/Users-600+-10b981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Sessions-3hr+_Daily-f59e0b?style=for-the-badge" />
 
 Billions of tracks. Zero ads. Sub-ms WebSocket sync for 100+ user Jam rooms. Vibe AI (Aayisha) for voice-nav.
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🎬 CINEXA
-**AI Movie Explorer**
+<!-- CINEXA -->
+### 🎬 CINEXA — AI Movie Explorer
 
 <img src="https://img.shields.io/badge/Latency-<32ms-06b6d4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Uptime-99.9%25-10b981?style=for-the-badge" />
 
 IMDb Evolution with Sphere AI (Groq/Llama). Mood-based cinematic intelligence. Real-time OST streaming.
 
-</td>
-</tr>
-</table>
+---
 
-<table>
-<tr>
-<td align="center" width="33%">
-
-### ⚖️ Jurisight
-**Global Legal Intelligence**
+<!-- Jurisight -->
+### ⚖️ Jurisight — Global Legal Intelligence
 
 <img src="https://img.shields.io/badge/180+_Countries-0891b2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/96%25_Precision-10b981?style=for-the-badge" />
@@ -273,11 +290,10 @@ Every law from every jurisdiction — IPC, CrPC, Constitution, International Law
 
 `RAG` `Legal AI` `NLP` `Multi-Jurisdiction`
 
-</td>
-<td align="center" width="33%">
+---
 
-### 💰 Lexmont
-**AI Tax & Finance Engine**
+<!-- Lexmont -->
+### 💰 Lexmont — AI Tax & Finance Engine
 
 <img src="https://img.shields.io/badge/Latency-80--91%25↓-f59e0b?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CA_Grade-✓-10b981?style=for-the-badge" />
@@ -286,11 +302,10 @@ Everything a Chartered Accountant does — automated. Tax filing, planning, dedu
 
 `Tax AI` `RAG` `Finance` `Compliance`
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🏛️ FermWise
-**Enterprise Legal Intelligence**
+<!-- FermWise -->
+### 🏛️ FermWise — Enterprise Legal Intelligence
 
 <img src="https://img.shields.io/badge/450+_Adopters-0e7490?style=for-the-badge" />
 <img src="https://img.shields.io/badge/70%25_Faster-f59e0b?style=for-the-badge" />
@@ -299,14 +314,10 @@ Advanced multi-jurisdiction corporate intelligence. Every law case — corporate
 
 `Corporate AI` `Case Law` `LLM` `Enterprise`
 
-</td>
-</tr>
-<tr><td colspan="3"><br></td></tr>
-<tr>
-<td align="center" width="33%">
+---
 
-### 🛡️ Insauré
-**AI Insurance Advisor**
+<!-- Insauré -->
+### 🛡️ Insauré — AI Insurance Advisor
 
 <img src="https://img.shields.io/badge/Zero_Charges-10b981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/No_Ads-06b6d4?style=for-the-badge" />
@@ -315,11 +326,10 @@ Scans the entire internet to find the cheapest & best insurance — health, life
 
 `Insurance AI` `Web Scraping` `LLM` `Comparison`
 
-</td>
-<td align="center" width="33%">
+---
 
-### 🍳 BlindChef
-**World Recipe Intelligence**
+<!-- BlindChef -->
+### 🍳 BlindChef — World Recipe Intelligence
 
 <img src="https://img.shields.io/badge/300K+_Recipes-0891b2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/95%25_Satisfaction-f59e0b?style=for-the-badge" />
@@ -328,11 +338,10 @@ Scans the entire internet to find the cheapest & best insurance — health, life
 
 `Recipe AI` `LLM Agent` `NLP` `Food Tech`
 
-</td>
-<td align="center" width="33%">
+---
 
-### 📺 YTV
-**YouTube Synthesis Engine**
+<!-- YTV -->
+### 📺 YTV — YouTube Synthesis Engine
 
 <img src="https://img.shields.io/badge/Smart_Notes-06b6d4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Flash_Cards-0e7490?style=for-the-badge" />
@@ -341,114 +350,101 @@ Summarizes any YouTube video into structured notes, flash cards, and key insight
 
 `Video AI` `Summarization` `LLM` `EdTech`
 
-</td>
-</tr>
-</table>
 </div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎬 CINEMATIC SOUND FORGE                                              -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🎬 CINEMATIC SOUND FORGE                               -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=E879F9&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8E%AC+CINEMATIC+SOUND+FORGE+%E2%80%94+ORIGINAL+COMPOSITIONS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=E879F9&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8E%AC+CINEMATIC+SOUND+FORGE" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
-<table>
-<tr>
-<td>
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║   🎬  C I N E M A T I C   S O U N D   D A S H B O A R D              ║
-║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━            ║
-║                                                                      ║
-║   🎵 SONGS & LYRICS ████████████████████████████████████  500+       ║
-║   🎬 BGM & SCORES   ████████████████████████████         343+        ║
-║   🎼 MELODIES        ████████████████████████████████████  500+      ║
-║   🎧 SOUND DESIGN    ████████████████████████████████████  ∞         ║
-║                                                                      ║
-║   ┌──────────────────────────────────────────────────────┐           ║
-║   │  TOTAL CINEMATIC CREATIONS ─────────── 843+          │           ║
-║   │  ORIGINAL LYRICS WRITTEN ──────────── 500+           │           ║
-║   │  MELODIES COMPOSED ────────────────── 500+           │           ║
-║   │  BACKGROUND SCORES ───────────────── 343+            │           ║
-║   │  STATUS ──────────────────────────── COMPOSING 🔴    │           ║
-║   └──────────────────────────────────────────────────────┘           ║
-║                                                                      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
+<table width="90%">
+  <tr>
+    <th colspan="2" align="center">
+      <h2>🎬 CINEMATIC SOUND DASHBOARD</h2>
+      <img src="https://img.shields.io/badge/STATUS-🔴_LIVE_FORGE-FF0055?style=for-the-badge" />
+    </th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/🎵_Songs_&_Lyrics-500+-E879F9?style=flat-square" /> <br><br>
+      <img src="https://img.shields.io/badge/🎬_BGM_&_Scores-343+-F59E0B?style=flat-square" />
+    </td>
+    <td width="50%" align="center">
+      <br>
+      <img src="https://img.shields.io/badge/🎼_Melodies-500+-06B6D4?style=flat-square" /> <br><br>
+      <img src="https://img.shields.io/badge/🎧_Sound_Design-∞_Layers-10B981?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <b>TOTAL MASTERED CREATIONS: <kbd>843+</kbd></b>
+      <br><br>
+    </td>
+  </tr>
 </table>
-</div>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
+---
 
-### 🎵 500+
-**Songs & Lyrics**
+### 🎵 500+ Songs & Lyrics
 
-Original lyrics written with melody, rhythm & soul. Full songs composed from scratch — vocals, hooks, verses, bridges.
+Original lyrics with melody, rhythm & soul. Full songs composed from scratch — vocals, hooks, verses, bridges.
 
 <img src="https://img.shields.io/badge/Lyrics-Written-E879F9?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Melody-Composed-A855F7?style=for-the-badge" />
 
-</td>
-<td align="center" width="25%">
+---
 
-### 🎬 343+
-**BGM & Cinematic Scores**
+### 🎬 343+ BGM & Cinematic Scores
 
 Original background music & cinematic scores. Emotional themes, action sequences, suspense buildups, orchestral compositions.
 
 <img src="https://img.shields.io/badge/BGM-Produced-F59E0B?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Scores-Cinematic-EF4444?style=for-the-badge" />
 
-</td>
-<td align="center" width="25%">
+---
 
-### 🎼 ∞
-**Melodies Composed**
+### 🎼 ∞ Melodies Composed
 
 Every song carries a unique melody. Instrumental arrangements, chord progressions, bass lines — all original compositions.
 
 <img src="https://img.shields.io/badge/Melodies-Original-06B6D4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Music-Theory-0891B2?style=for-the-badge" />
 
-</td>
-<td align="center" width="25%">
+---
 
-### 🎧 🔥
-**Sound Design**
+### 🎧 🔥 Sound Design
 
 Complete sound design pipeline — mixing, mastering, layering, EQ, reverb, compression. Professional-grade cinematic audio.
 
 <img src="https://img.shields.io/badge/Mixing-Pro-10B981?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Mastering-Studio-14B8A6?style=for-the-badge" />
 
-</td>
-</tr>
-</table>
+---
 
 ```
-  THE CREATIVE PROCESS:
+THE CREATIVE PROCESS:
 
-  ╭───  INSPIRATION ───╮    ╭──── COMPOSE ─────╮     ╭──── PRODUCE ────╮    ╭──── RELEASE ────╮
-  │   🌙 Late Night    │───▶│   🎹 Melody      │───▶│  🎚️ Mix & Master│───▶│   🎬 Ship It    │
-  │   ☕ Coffee + Soul │    │   ✍️ Lyrics      │    │  🎧 Sound Design│    │   🔥 843+ Done  │
-  ╰────────────────────╯    ╰──────────────────╯     ╰─────────────────╯    ╰─────────────────╯
+  INSPIRATION ──▶ COMPOSE
+  🌙 Late Night    🎹 Melody
+  ☕ Coffee+Soul    ✍️ Lyrics
+       │               │
+       ▼               ▼
+    PRODUCE ───▶  RELEASE
+  🎚️ Mix&Master   🎬 Ship It
+  🎧 Sound Design  🔥 843+ Done
 ```
 
 </div>
@@ -457,144 +453,64 @@ Complete sound design pipeline — mixing, mastering, layering, EQ, reverb, comp
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🌐 DEPLOYMENT CONSTELLATION                                          -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🌐 DEPLOYMENT CONSTELLATION                           -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8C%90+DEPLOYMENT+CONSTELLATION+%E2%80%94+SECTORS+CONQUERED" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=%F0%9F%8C%90+DEPLOYMENT+CONSTELLATION" width="100%" />
 </div>
 
 <br>
 
 <div align="center">
 
-> **Successfully deployed 46+ AI-powered websites and 21+ mobile applications serving 22,000+ active users across 13+ industry verticals.**
-
-<table>
-<tr>
-<td align="center" width="20%">
+> **Successfully deployed 46+ AI-powered websites and 21+ mobile applications serving 23,000+ active users across 13+ industry verticals.**
 
 <img src="https://img.shields.io/badge/⚖️_Legal_Tech-0891b2?style=for-the-badge" />
-
-Jurisight · FermWise
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/💰_Finance-0e7490?style=for-the-badge" />
-
-Lexmont · Tax AI
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🏥_Healthcare-10b981?style=for-the-badge" />
-
-AI Health Systems
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🛡️_Insurance-06b6d4?style=for-the-badge" />
-
-Insauré
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/✈️_Travel-14b8a6?style=for-the-badge" />
-
-True Trips AI
-
-</td>
-</tr>
-<tr><td colspan="5"><br></td></tr>
-<tr>
-<td align="center" width="20%">
-
+<br>
 <img src="https://img.shields.io/badge/💬_Social-E879F9?style=for-the-badge" />
-
-NEX Social
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🌐_Browser-A855F7?style=for-the-badge" />
-
-AeroX Browser
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🤖_Agentic_AI-F59E0B?style=for-the-badge" />
-
-Multi-Agent Systems
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🎬_Entertainment-EF4444?style=for-the-badge" />
-
-CINEXA · EDIX
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🎵_Music-EC4899?style=for-the-badge" />
-
-TraX Music
-
-</td>
-</tr>
-<tr><td colspan="5"><br></td></tr>
-<tr>
-<td align="center" width="20%">
-
+<br>
 <img src="https://img.shields.io/badge/📺_Media_AI-8B5CF6?style=for-the-badge" />
-
-YTV · Video AI
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/📚_Education-3B82F6?style=for-the-badge" />
-
-NexBooK · AcademyX
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🍳_Food_Tech-F97316?style=for-the-badge" />
-
-BlindChef
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/🔬_Quantum-22D3EE?style=for-the-badge" />
-
-Research · Physics
-
-</td>
-<td align="center" width="20%">
-
 <img src="https://img.shields.io/badge/💼_Enterprise-6366F1?style=for-the-badge" />
 
-B2B · SaaS
+<br>
 
-</td>
-</tr>
-</table>
+| Sector | Products |
+|:---:|:---:|
+| ⚖️ Legal Tech | Jurisight · FermWise |
+| 💰 Finance | Lexmont · Tax AI |
+| 🏥 Healthcare | AI Health Systems |
+| 🛡️ Insurance | Insauré |
+| ✈️ Travel | True Trips AI |
+| 💬 Social | NEX Social |
+| 🌐 Browser | AeroX Browser |
+| 🤖 Agentic AI | Multi-Agent Systems |
+| 🎬 Entertainment | CINEXA · EDIX |
+| 🎵 Music | TraX Music |
+| 📺 Media AI | YTV · Video AI |
+| 📚 Education | NexBooK · AcademyX |
+| 🍳 Food Tech | BlindChef |
+| 🔬 Quantum | Research · Physics |
+| 💼 Enterprise | B2B · SaaS |
 
 ```
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                                                                     │
-  │   🚀  46+ WEBSITES  ·  21+ APPS  ·  22,000+ USERS  ·  13+ SECTORS   │
-  │                                                                     │
-  │   "I don't operate in a single lane — I build across dimensions."   │
-  │                                                                     │
-  └─────────────────────────────────────────────────────────────────────┘
+🚀 46+ WEBSITES · 21+ APPS
+   23,000+ USERS · 13+ SECTORS
+
+ "I don't operate in a single lane
+  — I build across dimensions."
 ```
 
 </div>
@@ -603,38 +519,98 @@ B2B · SaaS
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🏆 IMPACT DASHBOARD                                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🏆 IMPACT DASHBOARD                                    -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8F%86+IMPACT+DASHBOARD" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8F%86+IMPACT+DASHBOARD" width="100%" />
 
-<table>
-<tr>
-<td align="center" width="25%"><h3>22,000+</h3><b>Active Users</b></td>
-<td align="center" width="25%"><h3>46+</h3><b>Websites Deployed</b></td>
-<td align="center" width="25%"><h3>21+</h3><b>Apps Shipped</b></td>
-<td align="center" width="25%"><h3>4</h3><b>Startups Founded</b></td>
-</tr>
-<tr>
-<td align="center"><h3>90%</h3><b>Cost Reduction</b></td>
-<td align="center"><h3>80%</h3><b>Research Time Saved</b></td>
-<td align="center"><h3>87%</h3><b>Exam Prediction</b></td>
-<td align="center"><h3>96%</h3><b>Transaction Success</b></td>
-</tr>
-<tr>
-<td align="center"><h3>250K+</h3><b>Free Courses Indexed</b></td>
-<td align="center"><h3>180+</h3><b>Countries Covered</b></td>
-<td align="center"><h3>1</h3><b>Quantum Paper</b></td>
-<td align="center"><h3>843+</h3><b>🎬 Cinematic Creations</b></td>
-</tr>
-<tr>
-<td align="center"><h3>500+</h3><b>🎵 Songs & Lyrics</b></td>
-<td align="center"><h3>343+</h3><b>🎬 BGM & Scores</b></td>
-<td align="center"><h3>∞</h3><b>🎼 Melodies Composed</b></td>
-<td align="center"><h3>🔥</h3><b>Sound Design</b></td>
-</tr>
+| Metric | Value |  | Metric | Value |
+|:---|:---:|:---:|:---|:---:|
+| 👥 Active Users | **23,000+** | | 🌐 Websites | **46+** |
+| 📱 Apps Shipped | **21+** | | 🚀 Startups | **4** |
+| 💸 Cost Reduction | **90%** | | ⏱️ Research Saved | **80%** |
+| 🎯 Exam Prediction | **87%** | | ✅ Transaction Rate | **96%** |
+| 📚 Courses Indexed | **250K+** | | 🌍 Countries | **180+** |
+| 📄 Quantum Paper | **1** | | 🎬 Cinematic Works | **843+** |
+| 🎵 Songs & Lyrics | **500+** | | 🎬 BGM & Scores | **343+** |
+| 🎼 Melodies | **∞** | | 🎧 Sound Design | **🔥** |
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🧠 NEURAL ARCHITECTURE — TECH STACK                    -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%A7%A0+NEURAL+ARCHITECTURE+%E2%80%94+TECH+STACK" width="100%" />
+
+<table width="100%">
+  <tr>
+    <td width="30%" align="center">
+      <img src="https://img.shields.io/badge/Agentic_AI-1C3C3C?style=for-the-badge" />
+    </td>
+    <td width="70%">
+      <b>LangGraph, OpenClaw, Claude Code, Codex, CrewAI, AutoGen, PydanticAI, LlamaIndex, LangChain, SuperAGI, OpenAI Swarm, Composio, Browserbase, MultiOn, N8N, Mem0, CopilotKit</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/GenAI_&_LLMs-0e7490?style=for-the-badge" />
+    </td>
+    <td>
+      <b>GPT-5.4, Claude 4.6 Opus, Gemini 3.1 Pro, Llama 4, Grok, Mistral, DeepSeek-V3.2, Qwen 3.5, Kimi K2.5, Gemma 3, MiniMax</b> <br>
+      <i>GraphRAG, Agentic RAG, DSPy, LoRA, vLLM, TensorRT • Pinecone, Qdrant, Weaviate, FAISS, Milvus • LangSmith, DeepEval</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vision_AI-886fbf?style=for-the-badge" />
+    </td>
+    <td>
+      <b>Sora 2, Veo 3.1, Kling 3.0, Runway Gen-4.5, Luma, Seedance 2.0 • Suno v4, ElevenLabs, Udio</b> <br>
+      <i>OpenCV, YOLOv8, Detectron2, SAM 2/3D, NeRFs, Gaussian Splatting, Blender AI</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/ML_&_NLP-F7931E?style=for-the-badge" />
+    </td>
+    <td>
+      <b>TensorFlow, PyTorch, Keras (CNN, RNN, LSTM, Transformers)</b> <br>
+      <i>HuggingFace, SpaCy, Rasa • XGBoost, PCA, UMAP • pandas, NumPy</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Core_Dev-0D1117?style=for-the-badge" />
+    </td>
+    <td>
+      <b>Python, JS (ES6+), C++, TypeScript, HTML/CSS, Java, Framer Motion, GSAP, WebSockets</b> <br>
+      <i>React.js, Next.js 15/16, Node.js, FastAPI, Django, Tailwind • React Native, Swift, Kotlin, PWAs</i>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloud_&_DBs-4169E1?style=for-the-badge" />
+    </td>
+    <td>
+      <b>PostgreSQL, MongoDB, Redis, Firebase, Supabase • AWS, GCP, Azure • Docker, CI/CD</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Coding_Agents-181717?style=for-the-badge" />
+    </td>
+    <td>
+      <b>Cursor AI, Windsurf, Claude Code, GitHub Copilot, Codex, Gemini CLI, Devin</b>
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -643,99 +619,17 @@ B2B · SaaS
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🧠 NEURAL ARCHITECTURE — TECH STACK                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🔬 QUANTUM RESEARCH                                    -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%A7%A0+NEURAL+ARCHITECTURE+%E2%80%94+TECH+STACK" />
-
-<h4>⚡ Agentic AI & LLM Ecosystem</h4>
-
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-0891b2?style=for-the-badge&logo=langchain&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-0d1117?style=for-the-badge&logoColor=white)
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0e7490?style=for-the-badge&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF4500?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-886FBF?style=for-the-badge&logo=googlegemini&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=for-the-badge&logoColor=white)
-
-<h4>🧠 Machine Learning & Deep Learning</h4>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<h4>🚀 Full Stack Development</h4>
-
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-<h4>☁️ Cloud, Databases & DevOps</h4>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-
-<h4>🔮 Vector DBs & RAG Infrastructure</h4>
-
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-00CE7C?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-2C2D72?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Milvus](https://img.shields.io/badge/Milvus-00A1EA?style=for-the-badge&logoColor=white)
-
-<h4>🎬 Multimodal & Creative AI</h4>
-
-![Sora](https://img.shields.io/badge/Sora_2-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Veo](https://img.shields.io/badge/Veo_3.1-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Runway](https://img.shields.io/badge/Runway_Gen4-000000?style=for-the-badge&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logoColor=white)
-![Suno](https://img.shields.io/badge/Suno_v4-FF6B6B?style=for-the-badge&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%94%AC+QUANTUM+RESEARCH" width="100%" />
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔬 QUANTUM RESEARCH                                                   -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&width=600&height=45&lines=%F0%9F%94%AC+QUANTUM+RESEARCH+%E2%80%94+BREAKING+PHYSICS" />
-</div>
-
-<table>
-<tr>
-<td width="60%">
-
-### 📄 "Challenging Bohr: Direct Evidence of Wave–Particle Simultaneity"
+### 📄 Challenging Bohr: Direct Evidence of Wave–Particle Simultaneity
 
 **Published on Academia, OSF, and Zenodo**
 
@@ -753,70 +647,69 @@ B2B · SaaS
 
 > *When everyone said "you can't observe both" — I mathematically modeled the detectors that proved you can.*
 
-</td>
-<td width="40%" align="center">
-
-```
-ψ = Ae^(ikx-iωt)
-
-╔════════════════╗
-║WAVE ⇌ PARTICLE ║
-║  D²+V² ≤ 1     ║
-║ NOT exclusive. ║
-║ CO-ENCODED.    ║
-╚════════════════╝
-
-Bohr:   "Choose one"
-Saurav: "Both."
-```
-
-</td>
-</tr>
+<table width="90%">
+  <tr>
+    <th colspan="2" align="center">
+      <h3><kbd>ψ = A·e^(ikx-iωt)</kbd></h3>
+      <p><i>The Mathematical Decomposition of the Duality Illusion</i></p>
+    </th>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/❌_BOHR'S_DILEMMA-EF4444?style=for-the-badge" />
+      <br><br>
+      "Mutually Exclusive: Choose Wave OR Particle."
+    </td>
+    <td width="50%" align="center">
+      <img src="https://img.shields.io/badge/✅_SAURAV'S_THEORY-10B981?style=for-the-badge" />
+      <br><br>
+      <b>"CO-ENCODED. Both Exist Simultaneously."</b>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <h2><kbd>D² + V² ≤ 1</kbd></h2>
+      <img src="https://img.shields.io/badge/WAVE_⇌_PARTICLE-Coexistence-0891B2?style=flat-square" />
+      <br><br>
+    </td>
+  </tr>
 </table>
+
+</div>
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🧬 BUILDER DNA                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🧬 BUILDER DNA                                         -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A7%AC+BUILDER+DNA" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A7%AC+BUILDER+DNA" width="100%" />
 </div>
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/🎯-First_Principles-0891b2?style=for-the-badge" />
 
 I deconstruct problems to their **atomic level** and rebuild from scratch. No templates.
 
-</td>
-<td align="center" width="33%">
-
 <img src="https://img.shields.io/badge/⚡-Execution_Speed-0e7490?style=for-the-badge" />
 
 Idea → Production in **days**, not months. **46 websites. 21 apps. 4 startups.**
-
-</td>
-<td align="center" width="33%">
 
 <img src="https://img.shields.io/badge/🌌-Cross_Domain-06b6d4?style=for-the-badge" />
 
 Quantum physics × AI × Product design. Innovation at **intersections**.
 
-</td>
-</tr>
-</table>
-
 ```
-   OBSERVE  ──▶  QUESTION  ──▶  BUILD  ──▶  DEPLOY  ──▶  SCALE
-      ▲                                                      │
-      └──────────────────  ITERATE  ◀────────────────────────┘
+OBSERVE ──▶ QUESTION ──▶ BUILD
+   ▲                       │
+   │     ◀── ITERATE ◀────┘
+   │                       │
+   └── SCALE ◀── DEPLOY ◀─┘
 ```
 
 </div>
@@ -825,48 +718,20 @@ Quantum physics × AI × Product design. Innovation at **intersections**.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🔮 FUTURE VISION                                                      -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🔮 FUTURE VISION                                       -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%94%AE+FUTURE+VISION" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%94%AE+FUTURE+VISION" width="100%" />
 
 ```
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░  AI-Native Product Architecture    [85%]
-  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░  Computational Music Theory         [80%]
-  ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░  Neural Agentic Orchestration       [75%]
-  ▓▓▓▓▓▓▓▓▓░░░░░░░░░  Autonomous Cognitive Systems       [55%]
-  ▓▓▓▓▓▓▓▓░░░░░░░░░░  Space-Tech AI Systems              [50%]
-  ▓▓▓▓▓▓░░░░░░░░░░░░  Quantum-AI Convergence             [40%]
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- ⚡ THE VIBE                                                           -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%E2%9A%A1+THE+VIBE" />
-
-```
-  ⌚ 03:47 AM                                          🔋 98%
-
-  > deploying nexbook v4.2...                           ✅
-  > composing cinematic score #344...                   🎬
-  > mastering song lyrics + melody #501...              🎵
-  > optimizing TraX streaming buffer to 0ms lag...      ✅
-  > writing quantum research paper...                   ✅
-  > refactoring EDIX deep sense pipeline...             ⏳
-  > 3rd cup of coffee...                                ☕
-  > questioning the nature of reality...                🔮
-  >
-  > "sleep is just a deployment cooldown period"        _
+▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ AI-Native Product    [85%]
+▓▓▓▓▓▓▓▓▓▓▓▓░░░░ Music Theory         [80%]
+▓▓▓▓▓▓▓▓▓▓▓░░░░░ Neural Agentic       [75%]
+▓▓▓▓▓▓▓▓░░░░░░░░ Cognitive Systems    [55%]
+▓▓▓▓▓▓▓░░░░░░░░░ Space-Tech AI        [50%]
+▓▓▓▓▓▓░░░░░░░░░░ Quantum-AI           [40%]
 ```
 
 </div>
@@ -875,16 +740,45 @@ Quantum physics × AI × Product design. Innovation at **intersections**.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 📊 GITHUB ACTIVITY                                                    -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- ⚡ THE VIBE                                            -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=0891B2&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8A+CONTRIBUTION+MATRIX" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%E2%9A%A1+THE+VIBE" width="100%" />
+
+```
+⌚ 03:47 AM                    🔋 98%
+
+> deploying nexbook v4.2...      ✅
+> composing score #344...        🎬
+> mastering lyrics #501...       🎵
+> TraX streaming → 0ms lag...    ✅
+> quantum research paper...      ✅
+> EDIX deep sense pipeline...    ⏳
+> 3rd cup of coffee...           ☕
+> questioning reality...         🔮
+>
+> "sleep is just a deployment
+>  cooldown period"              _
+```
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB ACTIVITY                                     -->
+<!-- ══════════════════════════════════════════════════════ -->
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=0891B2&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%8A+CONTRIBUTION+MATRIX" width="100%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sauravthakurq&bg_color=0d1117&color=00f5d4&line=0891b2&point=f59e0b&area_color=0e7490&area=true&hide_border=true&custom_title=NEURAL%20ACTIVITY%20LOG" width="95%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravthakurq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=10" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauravthakurq&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f5d4&text_color=c9d1d9&langs_count=10" width="95%" />
 
 </div>
 
@@ -892,45 +786,28 @@ Quantum physics × AI × Product design. Innovation at **intersections**.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 🎓 CREDENTIALS                                                        -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 🎓 CREDENTIALS                                         -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8E%93+CREDENTIALS" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8E%93+CREDENTIALS" width="100%" />
 
-<table>
-<tr>
-<td align="center" width="25%">
+---
 
-### 🏛️ IIT Delhi
-**Internship**
-September 2024
+### 🏛️ IIT Delhi — Internship
+**September 2024**
 
-</td>
-<td align="center" width="25%">
+### 🏢 Tata Group — Cybersecurity Analyst
+**Simulation**
 
-### 🏢 Tata Group
-Cybersecurity Analyst
-Simulation
+### 🏦 J.P. Morgan — Investment Banking
+**Simulation**
 
-</td>
-<td align="center" width="25%">
+### 📜 SEBI & NISM — Investor Certification
+**Examination**
 
-### 🏦 J.P. Morgan
-Investment Banking
-Simulation
-
-</td>
-<td align="center" width="25%">
-
-### 📜 SEBI & NISM
-Investor Certification
-Examination
-
-</td>
-</tr>
-</table>
+---
 
 | Domain | Certified By |
 |:---|:---|
@@ -946,18 +823,22 @@ Examination
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- ══════════════════════════════════════════════════════════════════════ -->
-<!-- 📡 CONNECT                                                            -->
-<!-- ══════════════════════════════════════════════════════════════════════ -->
+<!-- ══════════════════════════════════════════════════════ -->
+<!-- 📡 CONNECT                                             -->
+<!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%A1+ESTABLISH+CONNECTION" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%93%A1+ESTABLISH+CONNECTION" width="100%" />
+
+<br>
 
 <a href="mailto:sauravthakur6310@gmail.com"><img src="https://img.shields.io/badge/Gmail-sauravthakur6310-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-&nbsp;
+<br>
 <a href="https://linkedin.com/in/sauravthakurq"><img src="https://img.shields.io/badge/LinkedIn-sauravthakurq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-&nbsp;
+<br>
 <a href="https://github.com/sauravthakurq"><img src="https://img.shields.io/badge/GitHub-sauravthakurq-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br>
 
 ### 💡 *"I don't wait for the future. I Make it."*
 **— Saurav Thakur, 2026**
