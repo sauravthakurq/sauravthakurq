@@ -46,7 +46,7 @@
 
 I don't just write code — **I architect realities.**
 
-While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **23,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
+While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
 
 I operate at the intersection of **bleeding-edge AI** and **relentless execution**. My systems don't just work — they **think, adapt, and scale autonomously.**
 
@@ -54,7 +54,7 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 
 <img src="https://img.shields.io/badge/Websites_Shipped-46+-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Apps_Built-21+-0e7490?style=flat-square" />
-<img src="https://img.shields.io/badge/Active_Users-23,000+-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Active_Users-26,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Startups-4-14b8a6?style=flat-square" />
 
 <br>
@@ -107,7 +107,7 @@ const SAURAV_OS = {
   systemMetrics: {
     websitesDeployed: "46+",
     appsShipped:      "21+",
-    totalUsers:       "23,000+",
+    totalUsers:       "26,000+",
     startupsBuilt:    4,
     quantumLawsBroken: 1
   }
@@ -470,7 +470,7 @@ THE CREATIVE PROCESS:
 
 <div align="center">
 
-> **Successfully deployed 46+ AI-powered websites and 21+ mobile applications serving 23,000+ active users across 13+ industry verticals.**
+> **Successfully deployed 46+ AI-powered websites and 21+ mobile applications serving 26,000+ active users across 13+ industry verticals.**
 
 <img src="https://img.shields.io/badge/⚖️_Legal_Tech-0891b2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💰_Finance-0e7490?style=for-the-badge" />
@@ -512,7 +512,7 @@ THE CREATIVE PROCESS:
 
 ```
 🚀 46+ WEBSITES · 21+ APPS
-   23,000+ USERS · 13+ SECTORS
+   26,000+ USERS · 13+ SECTORS
 
  "I don't operate in a single lane
   — I build across dimensions."
@@ -533,7 +533,7 @@ THE CREATIVE PROCESS:
 
 | Metric | Value |  | Metric | Value |
 |:---|:---:|:---:|:---|:---:|
-| 👥 Active Users | **23,000+** | | 🌐 Websites | **46+** |
+| 👥 Active Users | **26,000+** | | 🌐 Websites | **46+** |
 | 📱 Apps Shipped | **21+** | | 🚀 Startups | **4** |
 | 💸 Cost Reduction | **90%** | | ⏱️ Research Saved | **80%** |
 | 🎯 Exam Prediction | **87%** | | ✅ Transaction Rate | **96%** |
