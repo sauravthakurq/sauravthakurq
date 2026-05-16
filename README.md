@@ -1,4 +1,4 @@
-<!-- 🌌 SAURAV THAKUR — CINEMATIC GITHUB PROFILE           -->
+<!-- 🌌 SAURAV THAKUR — CINEMATIC GITHUB PROFILE          -->
 <!-- ══════════════════════════════════════════════════════ -->
 
 <div align="center">
