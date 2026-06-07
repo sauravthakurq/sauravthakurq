@@ -46,7 +46,7 @@
 
 I don't just write code — **I architect realities.**
 
-While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **23,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
+While others build features, I build **ecosystems**. At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **28,000+ users**, and challenged a **100-year-old quantum physics principle** — all while pursuing my B.Sc. in Physics & CS.
 
 I operate at the intersection of **bleeding-edge AI** and **relentless execution**. My systems don't just work — they **think, adapt, and scale autonomously.**
 
