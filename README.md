@@ -701,9 +701,6 @@ OBSERVE ──▶ QUESTION ──▶ BUILD
 
 ---
 
-### 🏛️ IIT Delhi — Internship
-**September 2024**
-
 ### 🏢 Tata Group — Cybersecurity Analyst
 **Simulation**
 
