@@ -343,24 +343,6 @@ Converts any YouTube video into structured notes, flash cards, and key insights 
 
 > **46+ AI-powered websites and 21+ apps — 26,000+ active users across 13+ industry verticals.**
 
-<img src="https://img.shields.io/badge/⚖️_Legal_Tech-0891b2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💰_Finance-0e7490?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🏥_Healthcare-10b981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🛡️_Insurance-06b6d4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/✈️_Travel-14b8a6?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/💬_Social-E879F9?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🌐_Browser-A855F7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🤖_Agentic_AI-F59E0B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎬_Entertainment-EF4444?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🎵_Music-EC4899?style=for-the-badge" />
-<br>
-<img src="https://img.shields.io/badge/📺_Media_AI-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/📚_Education-3B82F6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🍳_Food_Tech-F97316?style=for-the-badge" />
-<img src="https://img.shields.io/badge/🔬_Quantum-22D3EE?style=for-the-badge" />
-<img src="https://img.shields.io/badge/💼_Enterprise-6366F1?style=for-the-badge" />
-
 | Sector | Products |
 |:---:|:---:|
 | ⚖️ Legal Tech | Jurisight · FermWise |
@@ -378,34 +360,6 @@ Converts any YouTube video into structured notes, flash cards, and key insights 
 | 🍳 Food Tech | BlindChef |
 | 🔬 Quantum | Research · Physics |
 | 💼 Enterprise | B2B · SaaS |
-
-```
-🚀 46+ WEBSITES · 21+ APPS
-   26,000+ USERS · 13+ SECTORS
-
- "I don't operate in a single lane
-  — I build across dimensions."
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- IMPACT DASHBOARD -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8F%86+IMPACT+DASHBOARD" width="100%" />
-
-| Metric | Value | | Metric | Value |
-|:---|:---:|:---:|:---|:---:|
-| 👥 Active Users | **26,000+** | | 🌐 Websites | **46+** |
-| 📱 Apps Shipped | **21+** | | 🚀 Startups | **4** |
-| 💸 Cost Reduction | **90%** | | ⏱️ Research Time Saved | **80%** |
-| 🎯 Exam Prediction | **87%** | | ✅ Transaction Success | **96%** |
-| 📚 Courses Indexed | **250K+** | | 🌍 Legal Jurisdictions | **180+** |
-| 📄 Research Papers | **1** | | 🎬 Cinematic Works | **843+** |
 
 </div>
 
@@ -546,86 +500,6 @@ Converts any YouTube video into structured notes, flash cards, and key insights 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- BUILDER DNA -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=10B981&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%A7%AC+BUILDER+DNA" width="100%" />
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🎯-First_Principles-0891b2?style=for-the-badge" />
-
-Deconstruct to the **atomic level**, rebuild from scratch. No templates.
-
-<img src="https://img.shields.io/badge/⚡-Execution_Speed-0e7490?style=for-the-badge" />
-
-Idea → Production in **days**, not months. **46 websites. 21 apps. 4 startups.**
-
-<img src="https://img.shields.io/badge/🌌-Cross_Domain-06b6d4?style=for-the-badge" />
-
-Quantum physics × AI × Product design. Innovation lives at **intersections**.
-
-```
-OBSERVE ──▶ QUESTION ──▶ BUILD
-   ▲                       │
-   │     ◀── ITERATE ◀────┘
-   │                       │
-   └── SCALE ◀── DEPLOY ◀─┘
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- FUTURE VISION -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=F59E0B&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%94%AE+FUTURE+VISION" width="100%" />
-
-```
-▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ AI-Native Products   [85%]
-▓▓▓▓▓▓▓▓▓▓▓▓░░░░ Music Theory Engine  [80%]
-▓▓▓▓▓▓▓▓▓▓▓░░░░░ Neural Agentic Sys   [75%]
-▓▓▓▓▓▓▓▓░░░░░░░░ Cognitive Systems    [55%]
-▓▓▓▓▓▓▓░░░░░░░░░ Space-Tech AI        [50%]
-▓▓▓▓▓▓░░░░░░░░░░ Quantum-AI Fusion    [40%]
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
-
-<!-- THE VIBE -->
-
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=00F5D4&center=true&vCenter=true&width=500&height=45&lines=%E2%9A%A1+THE+VIBE" width="100%" />
-
-```
-⌚ 03:47 AM                    🔋 98%
-
-> deploying nexbook v4.2...      ✅
-> composing score #344...        🎬
-> mastering lyrics #501...       🎵
-> TraX streaming → 0ms lag...    ✅
-> quantum paper revision...      ✅
-> EDIX deep sense pipeline...    ⏳
-> 3rd cup of coffee...           ☕
-> questioning reality...         🔮
->
-> "sleep is just a deployment
->  cooldown period"              _
-```
-
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 <!-- CONTRIBUTION MATRIX -->
 
@@ -640,12 +514,17 @@ OBSERVE ──▶ QUESTION ──▶ BUILD
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
-<!-- CREDENTIALS -->
+ 
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=2000&color=06B6D4&center=true&vCenter=true&width=500&height=45&lines=%F0%9F%8E%93+CREDENTIALS" width="100%" />
+<img width="100%" src="https://ghchart.rshah.org/39d353/sauravthakurq"/>
 
----
+<br><br>
+
+ 
+ 
+<!-- =============================================================== -->
+
+ 
 
 ### 🏢 Tata Group — Cybersecurity Analyst Simulation
 ### 🏦 J.P. Morgan — Investment Banking Simulation
