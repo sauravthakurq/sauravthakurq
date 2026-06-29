@@ -39,7 +39,7 @@
 
 I don't just write code — **I architect ecosystems.**
 
-At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **26,000+ users**, and published independent quantum physics research — all while pursuing my B.Sc. in Physics & CS.
+At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **26,000+ users**, and published independent quantum physics research.
 
 I operate at the intersection of **bleeding-edge AI** and **relentless execution**. My systems don't just work — they **think, adapt, and scale.**
 
