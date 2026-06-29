@@ -561,9 +561,6 @@ Converts any YouTube video into structured notes, flash cards, and key insights 
 
 <br><br>
 
-### 💡 *"I don't wait for the future. I build it."*
-**— Saurav Thakur, 2026**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0f2027,35:203a43,55:2c5364,75:00b4d8,100:00f5d4&height=150&section=footer&animation=fadeIn" width="100%" />
 
 </div>
