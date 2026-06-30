@@ -10,7 +10,7 @@
 
 <br>
 <img src="https://img.shields.io/badge/%E2%9A%A1_AI_ENGINEER-0891b2?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_4_FOUNDER-0e7490?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%9A%80_FOUNDER-0e7490?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/%F0%9F%94%AC_PHYSICS_RESEARCHER-06b6d4?style=for-the-badge&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/%F0%9F%A7%A0_ML_ENGINEER-10b981?style=for-the-badge&logoColor=white" />
