@@ -39,7 +39,7 @@
 
 I don't just write code — **I architect ecosystems.**
 
-At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **26,000+ users**, and published independent quantum physics research.
+At 20, I've founded **4 startups**, shipped **46+ websites** and **21+ apps** serving **28,000+ users**, and published independent quantum physics research.
 
 I operate at the intersection of **bleeding-edge AI** and **relentless execution**. My systems don't just work — they **think, adapt, and scale.**
 
@@ -47,7 +47,7 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 
 <img src="https://img.shields.io/badge/Websites_Shipped-46+-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Apps_Built-21+-0e7490?style=flat-square" />
-<img src="https://img.shields.io/badge/Active_Users-26,000+-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Active_Users-28,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Startups_Founded-4-14b8a6?style=flat-square" />
 
 <br>
@@ -96,7 +96,7 @@ const SAURAV_OS = {
   systemMetrics: {
     websitesDeployed: "46+",
     appsShipped:      "21+",
-    totalUsers:       "26,000+",
+    totalUsers:       "28,000+",
     startupsBuilt:    4,
     researchPapers:   1
   }
@@ -341,7 +341,7 @@ Converts any YouTube video into structured notes, flash cards, and key insights 
 
 <div align="center">
 
-> **46+ AI-powered websites and 21+ apps — 26,000+ active users across 13+ industry verticals.**
+> **46+ AI-powered websites and 21+ apps — 28,000+ active users across 13+ industry verticals.**
 
 | Sector | Products |
 |:---:|:---:|
