@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,15:0f2027,35:203a43,55:2c5364,75:00b4d8,100:00f5d4&height=250&section=header&text=SAURAV%20THAKUR&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20%20Founder%20%7C%20Physics%20Researcher&descSize=18&descAlignY=55&descColor=90e0ef" width="100%" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%E2%9A%A1+Building+the+Future+%E2%80%94+One+System+at+a+Time;%F0%9F%9A%80+46%2B+Websites+%E2%80%A2+21%2B+Apps+%E2%80%A2+26%2C000%2B+Users;%F0%9F%94%AC+Quantum+Physics+Researcher+%7C+Published+2026" width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=00F5D4&center=true&vCenter=true&repeat=true&width=900&height=45&lines=%E2%9A%A1+Building+the+Future+%E2%80%94+One+System+at+a+Time;%F0%9F%9A%80+46%2B+Websites+%E2%80%A2+21%2B+Apps+%E2%80%A2+44%2C000%2B+Users;%F0%9F%94%AC+Quantum+Physics+Researcher+%7C+Published+2026" width="100%" />
 </a>
 
 <br>
