@@ -48,7 +48,7 @@ I operate at the intersection of **bleeding-edge AI** and **relentless execution
 <img src="https://img.shields.io/badge/Websites_Shipped-46+-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/Apps_Built-21+-0e7490?style=flat-square" />
 <img src="https://img.shields.io/badge/Active_Users-44,000+-10b981?style=flat-square" />
-<img src="https://img.shields.io/badge/Startups_Founded-4-14b8a6?style=flat-square" />
+<img src="https://img.shields.io/badge/Startups_Founded--14b8a6?style=flat-square" />
 
 <br>
 
@@ -97,7 +97,7 @@ const SAURAV_OS = {
     websitesDeployed: "46+",
     appsShipped:      "21+",
     totalUsers:       "44,000+",
-    startupsBuilt:    4,
+    startupsBuilt:    1,
     researchPapers:   1
   }
 };
