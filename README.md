@@ -77,7 +77,7 @@ const SAURAV_OS = {
   uptime: "∞ (sleep is optional)",
 
   activeProcesses: [
-    { pid: "001", name: "NexBooK",       users: "21K+",  status: "🟢 LIVE"    },
+    { pid: "001", name: "NexBooK",       users: "44K+",  status: "🟢 LIVE"    },
     { pid: "002", name: "AeroX Browser", users: "1K+",   status: "🟢 SHIPPED" },
     { pid: "003", name: "NEX Social",    users: "700+",  status: "🟢 LIVE"    },
     { pid: "004", name: "True Trips AI", users: "600+",  status: "🟢 LIVE"    },
@@ -128,7 +128,7 @@ module.exports = SAURAV_OS; // 🟢
   <a href="https://nexbook.tech"><img src="https://img.shields.io/badge/🔗_VISIT_NEXBOOK.TECH-00F5D4?style=for-the-badge&logoColor=white" /></a>
 </p>
 
-<img src="https://img.shields.io/badge/Users-21,000+-10b981?style=flat-square" />
+<img src="https://img.shields.io/badge/Users-44,000+-10b981?style=flat-square" />
 <img src="https://img.shields.io/badge/Retention-85%25-0891b2?style=flat-square" />
 <img src="https://img.shields.io/badge/AI_Accuracy-87%25-f59e0b?style=flat-square" />
 <img src="https://img.shields.io/badge/Courses-250K+-06b6d4?style=flat-square" />
